@@ -1,0 +1,10 @@
+{
+    "name": "emmitter",
+    "version": "1.0.1",
+    "descriptions": "Description of your project",
+    "author": "your name",
+    "dependencies": {
+        "events": "*",
+        "fs" : "*"
+    }
+}
